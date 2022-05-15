@@ -1,0 +1,17 @@
+
+
+"styles": [
+          "src/styles.scss",
+          "node_modules/quill/dist/quill.core.css",
+          "node_modules/quill/dist/quill.snow.css"
+        ],
+"scripts": [
+		"node_modules/quill/dist/quill.min.js"
+]
+
+
+
+
+"@types/quill": "^1.3.7",
+"ngx-quill": "^16.2.1",
+"quill": "^1.3.7",
